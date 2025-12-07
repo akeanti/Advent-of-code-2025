@@ -64,7 +64,7 @@ Here’s how I'm doing so far:
 
 | Day | Puzzle Name        | Difficulty | Solution    | Analysis   | Status |
 |-----|--------------------|------------|-------------|------------|--------|
-| 01  | Problem Name Here  | Easy       | View Code   | Read Notes |        |
+| 01  | Problem Name Here  | Easy       | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_01/solution.py)   | Read Notes |        |
 | 02  | Gift Shop          | Medium     | View Code   | Read Notes |        |
 | 03  | TBD                | -          | -           | -          |        |
 | 04  | TBD                | -          | -           | -          |        |
