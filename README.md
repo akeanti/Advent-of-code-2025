@@ -3,7 +3,8 @@
   <a href="https://adventofcode.com/2025">
     <img src="https://img.shields.io/badge/Advent%20of%20Code-2025-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/yourusername/yourrepo">
+  <a href="https://github.com/akeanti/Advent-of-code-2025">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
   </a>
   <a href="LICENSE">
@@ -62,10 +63,11 @@ I try to stick to standard Python libraries (like `itertools` or `collections`) 
 
 Here’s how I'm doing so far:
 
-| Day | Puzzle Name        | Difficulty | Solution    | Analysis   | Status |
-|-----|--------------------|------------|-------------|------------|--------|
-| 01  | Secret Entrance    | Easy       | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_01/solution.py)   | Read Notes |        |
-| 02  | Gift Shop          | Medium     | View Code   | Read Notes |        |
+| Day | Puzzle Name     | Difficulty | Solution                                                                                 | Analysis   | Status |
+|-----|-----------------|------------|------------------------------------------------------------------------------------------|------------|--------|
+| 01  | Secret Entrance | Easy       | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_01/solution.py) | Read Notes |        |
+| 02  | Gift Shop       | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_02/solution.py) | Read Notes |        |
+| 03  | Lobby           | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_03/solution.py) | Read Notes |        |
 
 ---
 
