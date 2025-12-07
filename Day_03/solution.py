@@ -38,6 +38,5 @@ def solve_batteries(input_text):
 puzzle_input = """
 17193
 """
-
 result = solve_batteries(puzzle_input)
 print(f"Total Output Joltage: {result}")
