@@ -68,7 +68,7 @@ Here’s how I'm doing so far:
 | 01  | Secret Entrance     | Easy       | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_01/solution.py) | Read Notes |        |
 | 02  | Gift Shop           | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_02/solution.py) | Read Notes |        |
 | 03  | Lobby               | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_03/solution.py) | Read Notes |        |
-| 03  | Printing Department | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_04/solution.py) | Read Notes |        |
+| 04  | Printing Department | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_04/solution.py) | Read Notes |        |
 ---
 
 ## Want to Run It?
