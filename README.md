@@ -3,7 +3,8 @@
   <a href="https://adventofcode.com/2025">
     <img src="https://img.shields.io/badge/Advent%20of%20Code-2025-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/yourusername/yourrepo">
+  <a href="https://github.com/akeanti/Advent-of-code-2025">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
   </a>
   <a href="LICENSE">
