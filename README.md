@@ -69,7 +69,7 @@ Here’s how I'm doing so far:
 | 02  | Gift Shop           | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_02/solution.py) | Read Notes |
 | 03  | Lobby               | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_03/solution.py) | Read Notes |
 | 04  | Printing Department | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_04/solution.py) | Read Notes |
-| 03  | Printing Department | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_05/solution.py) | Read Notes |
+| 05  | Cafeteria           | Medium     | [View Code](https://github.com/akeanti/Advent-of-code-2025/blob/main/Day_05/solution.py) | Read Notes |
 
 ---
 
