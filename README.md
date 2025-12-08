@@ -7,7 +7,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="LICENSE">
+  <a href="https://github.com/akeanti/Advent-of-code-2025/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
   </a>
 </p>
