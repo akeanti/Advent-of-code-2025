@@ -12,8 +12,6 @@
   </a>
 </p>
 
-Hey, it's **Advent of Code 2025** :DDDDD !!
-
 <p align="center">
   <img src="https://aplwiki.com/images/0/0d/Advent_Of_Code_Logo.png" alt="Advent of Code 2025 Banner" width="50%">
 </p>
